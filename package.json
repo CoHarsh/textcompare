@@ -1,0 +1,34 @@
+{
+  "name": "textcompare",
+  "version": "0.1.0",
+  "description": "A simple NPM package that will compare two text and return the infomation regarding that",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoHarsh/textcompare.git"
+  },
+  "keywords": [
+    "matchstring",
+    "match",
+    "paragraphs",
+    "match",
+    "text",
+    "email",
+    "validator",
+    "with",
+    "example",
+    "text",
+    "comaparor",
+    "fast",
+    "comparisom"
+  ],
+  "author": "Harsh Prajapati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoHarsh/textcompare/issues"
+  },
+  "homepage": "https://github.com/CoHarsh/textcompare#readme"
+}
